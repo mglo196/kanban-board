@@ -15,8 +15,9 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "noEmit": false,  // Remove this line or set it to false
+    "noEmit": true  // Set noEmit to true, as required
   },
   "include": ["src"],
   "exclude": ["node_modules", "dist"]
 }
+
