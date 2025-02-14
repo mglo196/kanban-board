@@ -2,6 +2,7 @@ import { seedUsers } from './user-seeds.js';
 import { seedTickets } from './ticket-seeds.js';
 import { sequelize } from '../models/index.js';
 
+
 const seedAll = async (): Promise<void> => {
   try {
     await sequelize.sync({ force: true });
