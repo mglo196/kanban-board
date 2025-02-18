@@ -19,11 +19,8 @@ Task management system built with TypeScript, React, and PostgreSQL. Organize yo
 ### Home Page
 ![App Screenshot1](https://i.imgur.com/jR8lrIS.png)
 
-### Creating New Ticket
-![App Screenshot2](https://i.imgur.com/59fs9aQ.png)
-
 ### Log In
-![App Screenshot3](https://i.imgur.com/EbqwOyQ.png)
+![App Screenshot3](https://i.imgur.com/GLq752a.png)
 
 ## 🌟 Features
 
