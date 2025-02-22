@@ -98,7 +98,7 @@ npm install
 
 [The Deployed Application](https://kanban-board-d10n.onrender.com/)
 
-## This application can be deployed using Render:
+This application can be deployed using Render:
 
 ```bash
 # Build backend cd server npm run build # Build frontend cd ../client npm run build
