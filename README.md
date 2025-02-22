@@ -95,6 +95,8 @@ npm install
 
 ## 🚀 Deployment
 
+![Deployed Application Link](https://kanban-board-d10n.onrender.com/)
+
 ## This application can be deployed using Render:
 
 ```bash
